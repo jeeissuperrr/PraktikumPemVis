@@ -1,0 +1,16 @@
+C:\Folder Jee\Posttest1_Pemvis\bin\Debug\net8.0-windows\Posttest1_Pemvis.exe
+C:\Folder Jee\Posttest1_Pemvis\bin\Debug\net8.0-windows\Posttest1_Pemvis.deps.json
+C:\Folder Jee\Posttest1_Pemvis\bin\Debug\net8.0-windows\Posttest1_Pemvis.runtimeconfig.json
+C:\Folder Jee\Posttest1_Pemvis\bin\Debug\net8.0-windows\Posttest1_Pemvis.dll
+C:\Folder Jee\Posttest1_Pemvis\bin\Debug\net8.0-windows\Posttest1_Pemvis.pdb
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.Form1.resources
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.vbproj.GenerateResource.cache
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.AssemblyInfoInputs.cache
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.AssemblyInfo.vb
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.vbproj.CoreCompileInputs.cache
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.dll
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\refint\Posttest1_Pemvis.dll
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.pdb
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\Posttest1_Pemvis.genruntimeconfig.cache
+C:\Folder Jee\Posttest1_Pemvis\obj\Debug\net8.0-windows\ref\Posttest1_Pemvis.dll
